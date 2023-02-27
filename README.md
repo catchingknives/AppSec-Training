@@ -13,6 +13,8 @@ An overview of free as well as commercial training and certifications related to
 ||+ more like API Security, Threat Modeling...|varies|✅<br />(included)|
 |[(ISC)²](https://www.isc2.org/)|[Certified Secure Software Lifecycle Professional (CSSLP)](https://www.isc2.org/Certifications/CSSLP)|varies|✅<br />($599)|
 |[The Linux Foundation](https://www.linuxfoundation.org/)|[Developing Secure Software (LFD121)](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/)|✨free|✅|
+|[Kontra](https://application.security/)|Application Security Training and Software Security Education|🤷|🤷|
+|[Secure Code Warrior](https://www.securecodewarrior.com/)|Secure code learning for today’s developers|🤷|🤷|
 |[SafeStack](https://safestack.io/)|[Security Fundamentals for Software Development](https://safestack.io/syllabus-security-fundamentals/)|✨free|✅<br />(✨free)|
 ||[Introduction to DevSecOps](https://safestack.io/syllabus-introduction-to-devsecops/)|🤷|✅|
 ||+ more like Mobile, Microservices, Zero Trust...|from $25/mo.|✅<br />(included)|
