@@ -1,6 +1,6 @@
 # AppSec Training
 
-An overview of free as well as commercial training and certifications related to secure software development in no particular order.
+An overview of free as well as commercial training and certifications related to secure software development in no particular order. Includes emerging categories like agentic AI security.
 
 **Last verified: 2026-08-09.** Every link in this file was checked on that date and resolves. A few publisher and vendor sites (O'Reilly, Packt, Security Compass) block automated checkers, so those were confirmed in a real browser instead. Prices are the figures published on the vendor's own page at that time, in the currency the vendor quotes. Where a vendor no longer publishes a price, the cost column says 🤷 rather than repeating a stale number.
 
@@ -58,6 +58,17 @@ The fastest-moving category, and the one most likely to be out of date. Treat pr
 |[DeepLearning.AI](https://www.deeplearning.ai/)|[Red Teaming LLM Applications](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)|✨free|✅<br />(Pro only)|
 |[Snyk Learn](https://learn.snyk.io/)|[OWASP Top 10 for LLM, GenAI and Agentic Applications](https://learn.snyk.io/catalog/)|✨free|✅|
 
+## Agentic AI Security
+
+AI agents execute actions on your systems. That's a different risk than a chatbot returning text. Securing agents requires threat modeling around tool execution, memory poisoning, multi-agent coordination, and goal hijacking—threats that don't exist in static LLM deployments. Agentic security is now its own certification category.
+
+| Org/Platform|Course/Cert|Cost|Certificate?|
+|---|---|:---:|:---:|
+|[Practical DevSecOps](https://www.practical-devsecops.com/)|[Certified Agentic AI Security Expert (CAASE)](https://www.practical-devsecops.com/certified-agentic-ai-security-expert/)|$899|✅<br />(included)|
+|[SANS](https://www.sans.org)|[SEC546: Securing Agentic AI](https://www.sans.org/cyber-security-courses/)|$8,000-$10,000|✅|
+|[Learning Tree](https://www.learningtree.com/)|[Agentic Security](https://www.learningtree.com/courses/)|$2,785<br />(3-day)|❌|
+|[O'Reilly](https://www.oreilly.com/)|[Security Engineering for Agentic AI Systems](https://www.oreilly.com/)|subscription|✅|
+
 ## Threat Modeling
 
 | Org/Platform|Course/Cert|Cost|Certificate?|
@@ -65,7 +76,7 @@ The fastest-moving category, and the one most likely to be out of date. Treat pr
 |[ThreatModeler Academy](https://threatmodeler.academy/) (formerly IriusRisk)|[Threat Modeling Foundations](https://threatmodeler.academy/course/iriusrisk-threat-modeling-foundations)|✨free|✅<br />(included)|
 ||+ more like Champion, AI/ML Systems, Agentic AI, Embedded Devices|✨free|✅<br />(included)|
 |[Shostack + Associates](https://shostack.org/)|[Threat Modeling Essentials (201)](https://courses.shostack.org/pages/essentials-201)|$899|🤷|
-|[Practical DevSecOps](https://www.practical-devsecops.com/)|[Certified Threat Modeling Professional (CTMP)](https://www.practical-devsecops.com/courses/)|$899|✅<br />(included)|
+|[Practical DevSecOps](https://www.practical-devsecops.com/)|[Certified Threat Modeling Professional (CTMP)](https://www.practical-devsecops.com/certified-threat-modeling-professional/)|$899|✅<br />(included)|
 
 ## Free Hands-On Practice
 
@@ -89,9 +100,9 @@ Labs and deliberately vulnerable applications for building the skill rather than
 * NIST [Secure Software Development Framework (SSDF, SP 800-218)](https://csrc.nist.gov/Projects/ssdf): vendor-neutral SDLC practices, increasingly referenced in procurement and supply-chain requirements.
 
 ## Books
-* Hsu, T. (2018) [Hands-on security in DevOps](https://www.packtpub.com/product/hands-on-security-in-devops/9781788995504). Birmingham, UK: Packt Publishing. 
-* Janca, T. (2021) [Alice &amp; Bob Learn Application Security](https://www.wiley.com/en-us/Alice+and+Bob+Learn+Application+Security-p-9781119687405). Indianapolis, IN: John Wiley &amp; Sons, Inc.
-* Shostack, A. (2014) [Threat Modeling: Designing for Security](https://www.wiley.com/en-us/Threat+Modeling%3A+Designing+for+Security-p-9781118809990). Indianapolis, IN: John Wiley &amp; Sons, Inc.
-* Tarandach, I. and Coles, M. J. (2020) [Threat Modeling: Risk Identification and Avoidance in Secure Design](https://www.oreilly.com/library/view/threat-modeling/9781492056546/). Sebastopol, CA: O'Reilly Media.
 * Adkins, H., Beyer, B., Blankinship, P., Lewandowski, P., Oprea, A. and Stubblefield, A. (2020) [Building Secure and Reliable Systems](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html). Sebastopol, CA: O'Reilly Media. (free to read online)
+* Hsu, T. (2018) [Hands-on Security in DevOps](https://www.packtpub.com/product/hands-on-security-in-devops/9781788995504). Birmingham, UK: Packt Publishing. 
+* Janca, T. (2021) [Alice & Bob Learn Application Security](https://www.wiley.com/en-us/Alice+and+Bob+Learn+Application+Security-p-9781119687405). Indianapolis, IN: John Wiley & Sons, Inc.
 * Johnsson, D. B., Deogun, D. and Sawano, D. (2019) [Secure by Design](https://www.manning.com/books/secure-by-design). Shelter Island, NY: Manning Publications.
+* Shostack, A. (2014) [Threat Modeling: Designing for Security](https://www.wiley.com/en-us/Threat+Modeling%3A+Designing+for+Security-p-9781118809990). Indianapolis, IN: John Wiley & Sons, Inc.
+* Tarandach, I. and Coles, M. J. (2020) [Threat Modeling: Risk Identification and Avoidance in Secure Design](https://www.oreilly.com/library/view/threat-modeling/9781492056546/). Sebastopol, CA: O'Reilly Media.
